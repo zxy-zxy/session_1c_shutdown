@@ -1,0 +1,16 @@
+{
+  "instances": [
+    {
+      "server": "server",
+      "db": [
+        {
+          "name": "db_name",
+          "users_to_skip": [
+            "user1",
+            "user2"
+          ]
+        }
+      ]
+    }
+  ]
+}
